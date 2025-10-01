@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, I'm Salim — M.Sc. Computer Science student at Friedrich Schiller University Jena 👋
 
 <!--
 **SalimSama/SalimSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
